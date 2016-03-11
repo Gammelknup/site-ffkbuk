@@ -6,6 +6,14 @@
 
 GLUON_SITE_PACKAGES := \
 	gluon-mesh-batman-adv-15 \
+	kmod-usb-core \
+	kmod-usb2 \
+	kmod-usb-hid \
+	kmod-usb-net \
+	kmod-usb-net-asix \
+	kmod-r8169 \
+	kmod-usb-net-rtl8150\
+        kmod-usb-net-rtl8152\
 	gluon-alfred \
 	gluon-respondd \
 	gluon-autoupdater \
